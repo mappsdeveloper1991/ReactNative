@@ -1,5 +1,5 @@
 /**
- * @format for VS
+ * @format
  */
 
 import {AppRegistry} from 'react-native';
@@ -47,5 +47,5 @@ import axiosExample from './AxiosExample'
 //AppRegistry.registerComponent(appName, () => navigationMaterialsButtonBar);
 //AppRegistry.registerComponent(appName, () => drawawermenu);
 //AppRegistry.registerComponent(appName, () => fetchAPI);
-AppRegistry.registerComponent(appName, () => xMLHttpRequestExample);
+AppRegistry.registerComponent(appName, ()=> xMLHttpRequestExample);
 //AppRegistry.registerComponent(appName, ( )=>  axiosExample);
