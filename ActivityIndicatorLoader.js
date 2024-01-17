@@ -14,6 +14,7 @@ const ChnageStatusBarStyle2=() =>{
      );
 }
 
+
 //Authoress: Abhishek from Cody Info: 22 Jun 21 At 8:26PM   |  Alert / ActivityIndicator/Loader Example
 export default class ActivityIndicatorLoader extends Component{
 
